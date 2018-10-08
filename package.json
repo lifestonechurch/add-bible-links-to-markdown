@@ -1,0 +1,22 @@
+{
+  "name": "add-bible-links-to-markdown",
+  "version": "0.0.0",
+  "description": "JavaScript function to add links to Bible references within markdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifestonechurch/add-bible-links-to-markdown.git"
+  },
+  "keywords": [
+    "bible"
+  ],
+  "author": "agarrharr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lifestonechurch/add-bible-links-to-markdown/issues"
+  },
+  "homepage": "https://github.com/lifestonechurch/add-bible-links-to-markdown#readme"
+}
